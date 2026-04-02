@@ -6,6 +6,8 @@ Aplicação Web para testar a API Jikan
 
 Este repositório contém uma aplicação web para testar a API do Jikan, que é uma API pública não oficial do MyAnimeList. A ideia é facilitar a interação com a API, permitindo que usuários realizem solicitações e vejam as respostas de forma intuitiva e amigável.
 
+**🌐 Acesse a plataforma:** [github.io/JikanTester](https://victor-gabriel-barbosa.github.io/JikanTester/)
+
 ## Funcionalidades
 
 - **Testar Endpoints**: Execute chamadas para diversos endpoints da API do Jikan.
