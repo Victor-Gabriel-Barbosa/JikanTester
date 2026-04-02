@@ -15,6 +15,20 @@ Este repositório contém uma aplicação web para testar a API do Jikan, que é
 - **Exibir Erros**: Se uma chamada falhar, a aplicação mostrará uma mensagem de erro clara.
 - **Interface Intuitiva**: Desenvolvida para proporcionar uma experiência de usuário amigável e fluida.
 
+## 📷 Capturas de Tela
+> <img width="1901" height="1079" alt="image" src="https://github.com/user-attachments/assets/4c5f269a-514a-42a2-9e74-5ec111c0caf8" />
+> <img width="1900" height="1005" alt="image" src="https://github.com/user-attachments/assets/636e14eb-947a-4c20-9115-c3f7b3b21d43" />
+> <img width="1900" height="1007" alt="image" src="https://github.com/user-attachments/assets/cb49902f-53f2-48e2-b9bd-bd493ca28497" />
+> <img width="1900" height="1006" alt="image" src="https://github.com/user-attachments/assets/365995bc-e713-4f9d-839a-44304ddf64c1" />
+> <img width="1898" height="1005" alt="image" src="https://github.com/user-attachments/assets/c7c19f4b-ac93-466a-b2ef-84bb35372b7f" />
+> <img width="1899" height="564" alt="image" src="https://github.com/user-attachments/assets/6b2f5377-391f-4da0-b663-66cec1589307" />
+
+
+
+
+
+
+
 ## Tecnologias Utilizadas
 
 - **HTML**: 28.8% - Estrutura e semântica da aplicação
